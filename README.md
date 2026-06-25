@@ -14,5 +14,6 @@ I am a final-year B.Tech Computer Science student at Gayatri College of Engineer
 
 ---
 [![](https://komarev.com/ghpvc/?username=charanjegurupati&icon=0&color=0)](https://visitcount.itsvg.in)
+![LeetCode Stats](https://leetcard.jacoblin.cool/jCharan_96?theme=dark&font=Acme&ext=heatmap)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
