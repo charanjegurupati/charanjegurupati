@@ -1,3 +1,4 @@
+<img align="right" alt="Charan" width="320" src="./aciicharan.jpeg">
 # 💫 About Me:
 I am a final-year B.Tech Computer Science student at Gayatri College of Engineering in Vizag (Andhra Pradesh).<br>Career-wise, you're actively prepping for campus placements, with a specific focus on TCS Prime. You have internship experience in MERN Stack development and Google AI-ML (via AICTE).<br>Tech interests include DSA practice in Java, and you've worked on projects like a chess game with full standard rule enforcement.
 
